@@ -4,4 +4,4 @@ A simple PHP and Javascript code that dynamically read some url's, parses them a
 
 Uses [SimpleHtmlDom](http://simplehtmldom.sourceforge.net) for parsing and [FusionCharts](http://www.fusioncharts.com) for drawing charts.
 
-Tested only on Google Chrome 52.
+Tested on Google Chrome version 52 and Firefox version 39
